@@ -1,0 +1,20 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: java-parson-five
+  description: my fifth app
+ # tags:
+ #   - replace-this
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+    github.com/project-slug: harness-tr/java-parson-five
+    snyk.io/org-id: b4c68fa5-d1b2-451f-a162-ea2ed840727f
+    snyk.io/target-id: harness-tr/java-parson-five
+    wiz.io/project-id: harness-tr/java-parson-five
+spec:
+  type: service
+  owner: group:default/enabling_functions_people
+  lifecycle: experimental
+#  dependsOn:
+#    - component:default/replace-this
+#  system: poc-system
