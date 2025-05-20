@@ -5,6 +5,7 @@ metadata:
   description: my fifth app
   tags:
     - parson
+    - enterprise-approved
   annotations:
     backstage.io/techdocs-ref: dir:.
     github.com/project-slug: harness-tr/java-parson-five
@@ -16,7 +17,7 @@ metadata:
 spec:
   type: service
   owner: group:default/enabling_functions_people
-  lifecycle: experimental
+  lifecycle: production
   dependencyOf:
     - component:default/java-parson-two
   system: poc-system
