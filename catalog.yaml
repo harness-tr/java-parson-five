@@ -12,7 +12,7 @@ metadata:
     snyk.io/target-id: harness-tr/java-parson-five
     wiz.io/project-id: harness-tr/java-parson-five
     sonarqube.org/project-key: harness-tr_java-parson-five
-    backstage.io/kubernetes-id: java-parson-five
+    backstage.io/kubernetes-label-selector: java-parson-five
 spec:
   type: service
   owner: group:default/enabling_functions_people
