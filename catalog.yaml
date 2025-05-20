@@ -11,6 +11,7 @@ metadata:
     snyk.io/org-id: b4c68fa5-d1b2-451f-a162-ea2ed840727f
     snyk.io/target-id: harness-tr/java-parson-five
     wiz.io/project-id: harness-tr/java-parson-five
+    sonarqube.org/project-key: harness-tr/java-parson-five
 spec:
   type: service
   owner: group:default/enabling_functions_people
