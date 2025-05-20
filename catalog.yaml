@@ -20,3 +20,5 @@ spec:
   dependencyOf:
     - component:default/java-parson-two
   system: poc-system
+  providesApis:
+    - petstore
