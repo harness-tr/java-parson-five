@@ -3,8 +3,8 @@ kind: Component
 metadata:
   name: java-parson-five
   description: my fifth app
- # tags:
- #   - replace-this
+  tags:
+    - parson
   annotations:
     backstage.io/techdocs-ref: dir:.
     github.com/project-slug: harness-tr/java-parson-five
@@ -16,6 +16,6 @@ spec:
   type: service
   owner: group:default/enabling_functions_people
   lifecycle: experimental
-#  dependsOn:
-#    - component:default/replace-this
-#  system: poc-system
+  dependencyOf:
+    - component:default/java-parson-two
+  system: poc-system
