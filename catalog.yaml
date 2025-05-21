@@ -3,8 +3,6 @@ kind: Component
 metadata:
   name: java-parson-five
   description: my fifth app
-  additionalInfo:
-    CVE-TEST-1: 1
   tags:
     - parson
     - enterprise-approved
