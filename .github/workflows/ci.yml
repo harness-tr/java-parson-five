@@ -24,7 +24,7 @@ jobs:
       GCP_TOKEN: ${{ secrets.GCP_TOKEN }}
       PROJECT_NAME: "java-parson-five"
       PROJECT_SLUG: "java-parson-five"
-      DOCKERHUB_USERNAME: "alexsotoharness"
+      DOCKERHUB_USERNAME: "parsontodd"
       GKE_CLUSTER: "tr-cluster"
       GKE_LOCATION: "us-central1"
       GKE_PROJECT: "tr-cluster"
