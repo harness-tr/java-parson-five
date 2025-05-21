@@ -6,6 +6,10 @@ metadata:
   tags:
     - parson
     - enterprise-approved
+  links:
+    - url: http://35.188.76.110
+      title: Service Endpoint
+      icon: link
   annotations:
     backstage.io/techdocs-ref: dir:.
     github.com/project-slug: harness-tr/java-parson-five
