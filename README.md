@@ -30,7 +30,7 @@ If you change the package structure:
 
 ---
 
-### 2. Customize the Dockerfile
+### 2. Customize your Dockerfile
 
 The `Dockerfile` assumes a Maven-built `.jar` located at:
 
