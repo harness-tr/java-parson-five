@@ -1,6 +1,6 @@
 # java-parson-five
 
-Welcome to your new Spring Boot application scaffolded using Cookiecutter! This project includes:
+Welcome to your new Spring Boot application scaffolded using Cookiecutter. This project includes:
 
 - A basic Spring Boot app (Java 17, Maven)
 - A Dockerfile to containerize the app
